@@ -13,6 +13,9 @@ HTML, CSS, JavaScript (ES6+)
 **Фреймворки и библиотеки:**  
 React, React Router DOM, React Hook Form, Zustand, TanStack Query, Axios, Framer Motion, React Toastify, Ant Design, TailwindCSS
 
+**Стилизация:** 
+CSS, SCSS, TailwindCSS, Ant Design
+
 **Инструменты разработки:**  
 Vite, JSON Server, concurrently, nodemon, Bun, ESLint, Prettier
 
