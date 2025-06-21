@@ -1,4 +1,4 @@
-# Moldocmatov Aktan
+# Moldokmatov Aktan
 **Frontend Developer | React | JavaScript**  
 📍 Бишкек, Кыргызстан
 📧 aktantai250@gmail.com | [GitHub](https://github.com/Forelolit)
