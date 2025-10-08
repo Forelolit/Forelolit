@@ -14,13 +14,13 @@
 
 
 ## 🧠 Навыки
-JavaScript (ES6+)
-TypeScript
-React
-Sass/SCSS
-TailwindCSS
-Ant Design
-Vite
-ESLint
-Husky
-Prettier
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Sass/SCSS
+- TailwindCSS
+- Ant Design
+- Vite
+- ESLint
+- Husky
+- Prettier
