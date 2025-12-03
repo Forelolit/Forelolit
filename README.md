@@ -18,6 +18,9 @@
 - JavaScript (ES6+)
 - TypeScript
 - React
+- Aiogram
+- Django
+- Django rest framework
 - Sass/SCSS
 - TailwindCSS
 - Ant Design
