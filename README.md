@@ -1,28 +1,7 @@
 # Moldokmatov Aktan
-**Frontend Developer | React | JavaScript**  
+**Frontend Developer | React | NextJS | TypeScript**  
 📍 Бишкек, Кыргызстан
 📧 aktantai250@gmail.com
 
-
-**Опыт:**  
-- Работал с модульной архитектурой
-- Работал с FSD
-- Работал с git в команде
-- Разрабатывал коммерческий сайт "Национальная библиотека Кыргызской Республики имени Алыкула Осмонова"
-- Работал в консалтинговой компании Avala
-
-
-## 🧠 Навыки
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Aiogram
-- Django
-- Django rest framework
-- Sass/SCSS
-- TailwindCSS
-- Ant Design
-- Vite
-- ESLint
-- Husky
-- Prettier
+Фронтенд разработчик, разрабатываю веб приложения на React и Next, всегда использую typeScript.
+Углубляюсь в создание проектов близких к коммерческим и стартапам, осмыслывая архитектуру проекта и лучший стек.
